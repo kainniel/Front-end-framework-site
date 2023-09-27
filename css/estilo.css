@@ -1,0 +1,53 @@
+
+body {
+    background-color: rgb(231, 255, 189);
+    width: 80%;
+    max-width: 1200px;
+    margin: 10px auto;
+    text-align: justify;
+    border: 1px solid rgb(0, 13, 37);
+    border-radius: 5px;
+    padding: 0 5px;
+    font-family: 'Montserrat Bold', sans-serif;
+}
+
+form{
+    margin: 0px auto; 
+    width:250px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: white;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    margin: auto;
+    padding: 10px 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    color: brown;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(176, 255, 176);
+    color: rgb(130, 84, 255);
+}
+
+#teste{
+    text-align: center;
+    background: rgb(25, 184, 104);
+    border-radius: 10px;
+}
+
+.comentario {
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
