@@ -33,25 +33,27 @@
         </header>
 
         <div class="container">
-            <form>
-                <div class="mb-3">
-                    <label for="nome" class="form-label">Nome: </label>
-                    <input type="text" class="form-control" id="nome" name="nome"  placeholder="Nome"  required>
+            <form class="row">
+                <div class="col-md-12">
+                  <label for="nome" class="form-label" style="text-align: left; padding-top: 2rem;">Nome</label>
+                  <input type="text" class="form-control" id="nome">
                 </div>
-                <div class="mb-3">
-                    <label for="email" class="form-label">E-mail: </label>
-                    <input type="email" class="form-control" id="email" name="email" placeholder="outlook@outlook.com" required>
+                <div class="col-md-12">
+                  <label for="email" class="form-label" style="text-align: left;">E-mail</label>
+                  <input type="email" class="form-control" id="email">
                 </div>
-                <div class="mb-3">
-                    <label for="senha" class="form-label">Senha: </label>
-                    <input type="password" class="form-control" id="senha" name="senha" required>
+                <div class="col-md-12">
+                  <label for="senha" class="form-label" style="text-align: left;">Senha</label>
+                  <input type="password" class="form-control" id="senha">
                 </div>
-                <div class="mb-3">
-                    <label for="confirmar-senha" class="form-label">Confirmar Senha: </label>
-                    <input type="password" class="form-control" id="confirmar-senha" name="confirmar-senha" required>
+                <div class="col-md-12">
+                  <label for="confirmar-senha" class="form-label" style="text-align: left;">Confirmar senha</label>
+                  <input type="password" class="form-control" id="confirmar-senha">
                 </div>
-                <p><button type="submit" class="btn btn-primary">Cadastrar</button></p>
-            </form>
+                <div class="col-12">
+                  <button type="submit" class="btn btn-primary botao-cadastrar">Cadastrar</button>
+                </div>
+              </form>   
         </div>
     </body>
 </html>
