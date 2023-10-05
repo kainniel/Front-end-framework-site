@@ -10,18 +10,9 @@ body {
     font-family: 'Montserrat Bold', sans-serif;
   }
   
-h1, h2 {
-    color: white;
-    margin: 10px auto;
-    text-align: center;
-    padding: 10px 5px;
-    font-family: 'Montserrat', sans-serif;
-}
-
 form {
     margin: 0 auto;
     width: 250px;
-    text-align: center;
 }
 
 a {
@@ -35,6 +26,11 @@ a:hover {
 }
 
 .title {
+    color: white;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px 5px;
+    font-family: 'Montserrat', sans-serif;
     background-color: rgb(25, 184, 104);
     border-radius: 10px;
     text-align: center;
@@ -48,7 +44,7 @@ a:hover {
 }
 
 .botao-cadastrar {
-    margin: 1rem 0;
+    margin-bottom: 1rem;
 }
 
 .carrossel {
@@ -60,7 +56,21 @@ a:hover {
 }
 
 .carousel {
-    width: 35vw;
+    width: 40vw;
     margin: 1rem auto 1rem auto;
 }
+
+.form-campos {
+    margin: 1rem 0;
+}
+
+.form-label {
+    padding-top: 5px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
   
