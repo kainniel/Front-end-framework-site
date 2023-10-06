@@ -1,17 +1,13 @@
 body {
     background-color: rgb(231, 255, 189);
-    width: 80vw;
-    max-width: 1200px;
-    margin: 10px auto;
+    margin: 0 auto;
     text-align: justify;
-    border: 1px solid rgb(0, 13, 37);
-    border-radius: 5px;
     font-family: 'Montserrat Bold', sans-serif;
   }
   
 form {
     margin: 0 auto;
-    width: 250px;
+    width: 20rem;
 }
 
 a {
@@ -27,8 +23,6 @@ a:hover {
 .title {
     color: white;
     margin: 10px 10px;
-    text-align: center;
-    padding: 10px 5px;
     font-family: 'Montserrat', sans-serif;
     background-color: rgb(25, 184, 104);
     border-radius: 10px;
@@ -37,7 +31,17 @@ a:hover {
 }
 
 .navbar {
-    margin: 10px 10px;
+    background-color: green;
+    margin-bottom: 1rem;
+}
+
+.navbar-brand {
+    align-items: center;
+}
+
+.logo {
+    height: 4rem;
+    margin-right: .5rem;
 }
   
 .comentario {
