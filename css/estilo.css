@@ -31,8 +31,7 @@ a:hover {
 }
 
 .navbar {
-    background-color: green;
-    margin-bottom: 1rem;
+    background-color: #168a44;
 }
 
 .navbar-brand {
@@ -55,16 +54,15 @@ a:hover {
 }
 
 .carrossel {
-    margin: 1rem 0;
-}
-
-.botao-comece {
     margin-bottom: 1rem;
 }
 
 .carousel {
-    width: 40vw;
-    margin: 1rem auto 1rem auto;
+    margin: 0 auto;
+}
+
+.botao-comece {
+    margin-bottom: 1rem;
 }
 
 .form-campos {
