@@ -33,6 +33,12 @@ a:hover {
     margin-top: 2rem;
 }
 
+.display-6 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 2.25rem;
+}
+
 .title {
     color: white;
     margin: 10px 10px;
@@ -42,6 +48,7 @@ a:hover {
     text-align: center;
     padding: 10px;
 }
+
 /* Index */
 .carousel-banner {
     margin-bottom: 1rem;
@@ -71,23 +78,26 @@ a:hover {
 }
 
 /* Sobre nós */
+.about-content {
+    margin-top: 1rem;
+}
 
 /* Cadastro */
+.register {
+    margin-top: 1rem;
+}
+
 form {
     margin: 0 auto;
     width: 20rem;
 }
 
-.form-campos {
-    margin: 1rem 0;
-}
-
 .form-label {
-    padding-top: 5px;
+    padding-top: .5rem;
 }
 
 .botao-cadastrar {
-    margin-bottom: 1rem;
+    margin: 1rem 0;
 }
 
 /* Media queries */
