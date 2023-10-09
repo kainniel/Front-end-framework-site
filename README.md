@@ -28,10 +28,6 @@ O site está hospedado no GitHub Pages.
 * Danniel Soares
 * Vinícius Varjão
 
-## Data
-
-20 de julho de 2023
-
 ## Informações adicionais
 
 Este site foi criado para fins educacionais e não deve ser utilizado para fins comerciais.
