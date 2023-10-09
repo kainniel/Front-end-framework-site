@@ -1,14 +1,14 @@
 # README.md
 
-Este site foi criado como uma atividade da disciplina de Front-end Frameworks do curso de Análise e Desenvolvimento de Sistemas da UNINASSAU Aracaju. O objetivo da atividade era criar um site simples utilizando os conceitos aprendidos na disciplina.
+Este site foi criado como uma atividade da disciplina de Front-end Frameworks do curso de Análise e Desenvolvimento de Sistemas da UNINASSAU Aracaju. O objetivo da atividade era criar um site simples utilizando os conceitos de bootstrap aprendidos na disciplina.
 
 ## Conteúdo
 
 O site é composto por uma página inicial, uma página de contato e uma página de política de privacidade.
 
-* **Página inicial:** Apresenta uma breve descrição do site e um formulário para o usuário informar seus interesses.
-* **Página de contato:** Fornece informações de contato do desenvolvedor do site.
-* **Página de política de privacidade:** Descreve como os dados do usuário são coletados e utilizados.
+* **Página inicial:** Apresenta uma breve descrição do site e cards informativos sobre o conteúdo que você poderá encontrar.
+* **Página Sobre nós:** Fornece informações sobre a organização ficcional do site.
+* **Página de cadastro:** Apresenta um formulário que serviria para captar usuários que desejam receber os conteúdos criados pela organização.
 
 ## Tecnologias
 
