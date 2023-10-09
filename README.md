@@ -25,7 +25,7 @@ O site está hospedado no GitHub Pages.
 
 ## Autores
 
-* Daniel Soares
+* Danniel Soares
 * Vinícius Varjão
 
 ## Data
